@@ -9,7 +9,7 @@ import { console } from "inspector";
 
 let valor = 1; // number ou numério (inteiros)
 let valorBooleano = false; // boolean ou booleano (falso ou verdadeiro)
-let valorTexto = string = "Olá Pessoal"; // string ou cadeia de caracteres
+let valorTexto = "Olá Pessoal"; // string ou cadeia de caracteres
 let valorIndefinido = undefined; // Undefined ou indefinido, assume qualquer tipo
 let valorNulo = null; // tipo Nulo
 
